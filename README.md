@@ -2,6 +2,6 @@
 Repositori untuk keperluan Praktikum Algoritma Pemrograman Jurusan Informatika UPNYK
 
 #### Biodata
- Nama	: Muh Hamka Satrianto
- NIM	: (isikan nim and)
- Kelas	: (isikan Kelas Praktikum)
+ Nama	: Muhammad Ilham N.T.H
+ NIM	: 123200168
+ Kelas	: F
